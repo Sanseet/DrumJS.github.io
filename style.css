@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background: url('https://c.wallhere.com/photos/1c/e4/Boris_band_Wata_music-1144839.jpg!d') no-repeat;
+
+}
+
+h1 {
+    font-size: 3rem;
+    color: #7af2ea;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main {
+    margin: 15%;
+}
+
+.beat{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+.container {
+    border: 3px solid #1fe9f4;
+    border-radius: 50%;
+    font-size: 40px;
+    font-family: 'Arvo', cursive;
+    color: #590ac2;
+    text-shadow: 1px 0 #16ecf4;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+    top: 0;
+    margin-top: 0px;
+    background-color: rgb(192, 195, 194);
+}
